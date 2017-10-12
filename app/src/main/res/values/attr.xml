@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <!--name：自定义属性名，format：自定义属性数据类型-->
+        <attr name="mtext" format="string"></attr>
+        <attr name="mcolor" format="color"></attr>
+        <attr name="msize" format="dimension"></attr>
+        <attr name="mfloat" format="float"></attr>
+
+    </declare-styleable>
+</resources>
